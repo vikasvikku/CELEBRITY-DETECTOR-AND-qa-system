@@ -32,6 +32,3 @@ class QAEngine:
             return response.json()['choices'][0]['message']['content']
         
         return "Sorry I couldn't find the answer"
-
-
-

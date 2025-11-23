@@ -69,5 +69,3 @@ If unknown, return "Unknown".
                 return line.split(":")[1].strip()
 
         return "Unknown"    
-
-
